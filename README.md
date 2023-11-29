@@ -31,3 +31,5 @@ Asegúrate de tener Visual Studio instalado con sus respectivas herramientas y e
 2. 
 3. 
 
+## Autores
+Gustavo Aguas & Sebastián Paucar
